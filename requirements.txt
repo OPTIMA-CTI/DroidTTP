@@ -1,0 +1,7 @@
+xgboost
+shap
+scikit-multilearn
+datasets
+peft
+transformers
+bitsandbytes
