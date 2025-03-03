@@ -28,14 +28,14 @@ To bridge this gap, we present **DroidTTP**, a solution designed to map Android 
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/DroidTTP.git
+   git clone https://github.com/OPTIMA-CTI/DroidTTP.git
    cd DroidTTP
    ```
-2. Install dependencies (if applicable):
+2. Install dependencies:
    ```bash
    pip install -r requirements.txt
    ```
-3. Explore the dataset and models provided in the `code/` directory.
+3. Explore the dataset and codes provided in the \dataset/' and `code/` directory.
 
 
 
